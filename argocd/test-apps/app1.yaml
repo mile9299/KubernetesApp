@@ -13,4 +13,4 @@ spec:
   source:
     path: argocd/example/app-of-app/webapp-1
     repoURL: https://github.com/mile9299/KubernetesApp.git
-    targetRevision: main
+    targetRevision: main1
